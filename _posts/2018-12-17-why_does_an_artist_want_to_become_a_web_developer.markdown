@@ -7,7 +7,7 @@ permalink:  why_does_an_artist_want_to_become_a_web_developer
 
 
 First of all, let me introduce myself. My name is Elise Phan, an aspiring artist who is still trying to support herself after college. I got my Bachelor degree in Illustration, a "useless degree" according to most of my friends and family. And I have to, sadly, agree with that. After just a few months after graduating from college, I found myself working in a full-time customer service job just to make ends meet. I told myself that this is just temporary and I can always find art jobs on the side. 
-Fast forward two years later, I'm still working for barely above minimum wage at that very same place. Nothing changed, except that I can barely draw anymore due to fatigue, stress, and lack of imagination. Who would've thought that working in retail and customer service could be this tiresome? After a series of unfortunate events at work and at home, I finally decided to quit my job and start to look for another career. I want to go back to school to learn something else. Something more "practical" and more "desirable."
+Fast forward two years later, I'm still working for barely above minimum wage at that very same place. Nothing changed, except that I can barely draw anymore due to fatigue, stress, and lack of creativity. Who would've thought that working in retail and customer service could be this tiresome? After a series of unfortunate events at work and at home, I finally decided to quit my job and start to look for another career. I want to go back to school to learn something else. Something more "practical" and more "desirable."
 
 There are so many choices out there, so why coding? 
 
