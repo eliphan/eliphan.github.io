@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React with Rails and external API"
-date:       2019-05-13 03:48:23 +0000
+date:       2019-05-12 23:48:24 -0400
 permalink:  react_with_rails_and_external_api
 ---
 
